@@ -79,6 +79,7 @@ library
     , crypton-connection
     , exceptions
     , io-classes
+    , network
     , websockets
     , wuss
   default-language: Haskell2010
